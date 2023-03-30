@@ -21,4 +21,8 @@
     background-color: rgb(235, 235, 235);
     width: 400px;
     height: 300px;
+    left: 50%;
+    top: 50%;
+    margin-left: -200px;
+    margin-top: -150px;
 }
