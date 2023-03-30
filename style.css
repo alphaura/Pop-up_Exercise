@@ -16,6 +16,9 @@
 }
 
 .popup .content {
+    position: absolute;
     padding: 20px;
-    
+    background-color: white;
+    width: 400px;
+    height: 300px;
 }
