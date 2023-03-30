@@ -26,3 +26,13 @@
     margin-left: -200px;
     margin-top: -150px;
 }
+
+.popup .close {
+    border: none;
+    background-color: red;
+    color: whitesmoke;
+    padding: 20px;
+    font-size: 20px;
+    position: absolute;
+    font-weight: bold;
+}
